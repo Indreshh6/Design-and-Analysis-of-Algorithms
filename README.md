@@ -12,6 +12,7 @@ This repository contains Python implementations and time analysis for core Desig
 | 4 | [`4_factorial.py`](./4_factorial.py) | Factorial — iterative vs recursive implementation, with runtime comparison |
 | 5 | [`5_knapsack.py`](./5_knapsack.py) | 0/1 Knapsack Problem solved using Dynamic Programming |
 | 6 | [`6_matrix_chain_multiplication.py`](./6_matrix_chain_multiplication.py) | Matrix Chain Multiplication solved using Dynamic Programming |
+| 7 | [`7_coin_change.py`](./7_coin_change.py) | Coin Change (Making Change) Problem solved using Dynamic Programming |
 
 ## How to Run
 
@@ -24,6 +25,7 @@ python 3_heap_sort.py
 python 4_factorial.py
 python 5_knapsack.py
 python 6_matrix_chain_multiplication.py
+python 7_coin_change.py
 ```
 
 Each script prints:
